@@ -30,6 +30,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/mdb-angular-ui-kit/assets/scss/mdb.scss",
               "src/styles.scss"
             ],
             "scripts": []
@@ -97,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "1da3a968-bd0b-4509-8581-4dee3d32256f"
   }
 }
